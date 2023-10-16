@@ -1,0 +1,8 @@
+[INFO ] 2023-10-16 08:46:01.844 [main] UserTests2 - *************** Criando usuário ***************
+[INFO ] 2023-10-16 08:46:04.220 [main] UserTests2 - *************** Usuário criado ***************
+[INFO ] 2023-10-16 08:46:04.232 [main] UserTests2 - *************** Lendo infos do usuário ***************
+[INFO ] 2023-10-16 08:46:05.087 [main] UserTests2 - *************** Infos do usuário lidas ***************
+[INFO ] 2023-10-16 08:46:05.090 [main] UserTests2 - *************** Atualizando do usuário ***************
+[INFO ] 2023-10-16 08:46:06.626 [main] UserTests2 - *************** Usuário atualizado ***************
+[INFO ] 2023-10-16 08:46:06.633 [main] UserTests2 - *************** Apagando usuário ***************
+[INFO ] 2023-10-16 08:46:07.418 [main] UserTests2 - *************** Usuário apagado ***************
