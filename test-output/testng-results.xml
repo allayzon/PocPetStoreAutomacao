@@ -2,28 +2,28 @@
 <testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2023-10-16T08:46:00 BRT" name="UserSuite" finished-at="2023-10-16T08:46:07 BRT" duration-ms="6445">
+  <suite started-at="2023-10-16T10:22:43 BRT" name="UserSuite" finished-at="2023-10-16T10:22:52 BRT" duration-ms="8253">
     <groups>
     </groups>
-    <test started-at="2023-10-16T08:46:00 BRT" name="UserTest" finished-at="2023-10-16T08:46:07 BRT" duration-ms="6445">
+    <test started-at="2023-10-16T10:22:43 BRT" name="UserTest" finished-at="2023-10-16T10:22:52 BRT" duration-ms="8253">
       <class name="api.test.UserTests2">
-        <test-method is-config="true" signature="setupDados()[pri:0, instance:api.test.UserTests2@7d8995e]" started-at="2023-10-16T08:46:01 BRT" name="setupDados" finished-at="2023-10-16T08:46:01 BRT" duration-ms="621" status="PASS">
+        <test-method is-config="true" signature="setupDados()[pri:0, instance:api.test.UserTests2@7d8995e]" started-at="2023-10-16T10:22:44 BRT" name="setupDados" finished-at="2023-10-16T10:22:45 BRT" duration-ms="816" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setupDados -->
-        <test-method signature="testePostUser()[pri:1, instance:api.test.UserTests2@7d8995e]" started-at="2023-10-16T08:46:01 BRT" name="testePostUser" finished-at="2023-10-16T08:46:04 BRT" duration-ms="2383" status="PASS">
+        <test-method signature="testePostUser()[pri:1, instance:api.test.UserTests2@7d8995e]" started-at="2023-10-16T10:22:45 BRT" name="testePostUser" finished-at="2023-10-16T10:22:48 BRT" duration-ms="3696" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testePostUser -->
-        <test-method signature="testeGetUserPorNome()[pri:2, instance:api.test.UserTests2@7d8995e]" started-at="2023-10-16T08:46:04 BRT" name="testeGetUserPorNome" finished-at="2023-10-16T08:46:05 BRT" duration-ms="857" status="PASS">
+        <test-method signature="testeGetUserPorNome()[pri:2, instance:api.test.UserTests2@7d8995e]" started-at="2023-10-16T10:22:48 BRT" name="testeGetUserPorNome" finished-at="2023-10-16T10:22:49 BRT" duration-ms="826" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testeGetUserPorNome -->
-        <test-method signature="testeUpdateUserPorNome()[pri:3, instance:api.test.UserTests2@7d8995e]" started-at="2023-10-16T08:46:05 BRT" name="testeUpdateUserPorNome" finished-at="2023-10-16T08:46:06 BRT" duration-ms="1542" status="PASS">
+        <test-method signature="testeUpdateUserPorNome()[pri:3, instance:api.test.UserTests2@7d8995e]" started-at="2023-10-16T10:22:49 BRT" name="testeUpdateUserPorNome" finished-at="2023-10-16T10:22:51 BRT" duration-ms="1726" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testeUpdateUserPorNome -->
-        <test-method signature="testeDeletePorNome()[pri:4, instance:api.test.UserTests2@7d8995e]" started-at="2023-10-16T08:46:06 BRT" name="testeDeletePorNome" finished-at="2023-10-16T08:46:07 BRT" duration-ms="786" status="PASS">
+        <test-method signature="testeDeletePorNome()[pri:4, instance:api.test.UserTests2@7d8995e]" started-at="2023-10-16T10:22:51 BRT" name="testeDeletePorNome" finished-at="2023-10-16T10:22:52 BRT" duration-ms="795" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testeDeletePorNome -->
